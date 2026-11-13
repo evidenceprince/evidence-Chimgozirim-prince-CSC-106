@@ -1,0 +1,43 @@
+CSC 106 — WEBSITE PORTFOLIO PROJECT REPORT
+
+Student Name: Evidence Chimgozirim Prince
+Institution: Miva Open University
+Department: Cybersecurity
+Course Code: CSC 106
+Course Title: [Insert the exact course title given by the lecturer]
+
+Project Title: Personal Cybersecurity Portfolio Website
+
+1. Introduction
+This project is a responsive personal portfolio website created to present the student's background, cybersecurity interests, learning projects, academic planning and contact information.
+
+2. Technologies Used
+- HTML5 for page structure
+- CSS3 for styling and responsive layout
+- JavaScript for navigation, academic planner interactions and contact form validation
+
+3. Website Pages
+- Home
+- About
+- Projects
+- Academic Planner
+- Contact
+
+4. Functional Features
+The website includes a responsive navigation menu, an academic planner that saves tasks in the browser's local storage, and a contact form that validates required fields. The demonstration contact form does not transmit messages.
+
+5. Project Demonstrations
+The Projects page currently contains three sample cybersecurity project concepts. Replace or supplement these with work actually completed and tested by the student before describing them as completed projects.
+
+6. Testing
+[Describe the pages and features personally tested on desktop/mobile browsers.]
+
+7. Repository and Live Website
+GitHub Repository: [Paste repository URL]
+Live Website: [Paste Netlify/Vercel URL]
+
+8. Conclusion
+[Write a short reflection on what was learned while creating and testing the website.]
+
+Screenshots
+[Insert screenshots of the Home, About, Projects, Academic Planner and Contact pages.]
